@@ -1,0 +1,12 @@
+.Footer{
+    background-color:  #1c1c1d;
+    color: aliceblue;
+}
+li {
+    list-style: none;
+    font-size: larger;
+  }
+.imgf{
+    height: 75%;
+    width: 70%;
+}
